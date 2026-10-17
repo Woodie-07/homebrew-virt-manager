@@ -1,7 +1,7 @@
 class VirtViewer < Formula
   desc "App for virtualized guest interaction"
   homepage "https://virt-manager.org/"
-  url "https://releases.pagure.org/virt-viewer/virt-viewer-11.0.tar.xz"
+  url "https://gitlab.com/virt-viewer/virt-viewer/-/releases/v11.0/downloads/virt-viewer-11.0.tar.xz"
   sha256 "a43fa2325c4c1c77a5c8c98065ac30ef0511a21ac98e590f22340869bad9abd0"
   revision 0
 
